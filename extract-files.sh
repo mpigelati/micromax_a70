@@ -328,7 +328,7 @@ cp $2/system/$FILE ../../../vendor/micromax/$DEVICE/proprietary/$FILE
 fi
 done
 
-chmod 755 ../../../vendor/huawei/ascend/proprietary/bin/*
+chmod 755 ../../../vendor/micromax/a70/proprietary/bin/*
 
 (cat << EOF) | sed s/__DEVICE__/$DEVICE/g > ../../../vendor/micromax/$DEVICE/$DEVICE-vendor-blobs.mk
 # Copyright (C) 2010 The Android Open Source Project
