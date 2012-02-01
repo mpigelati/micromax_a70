@@ -175,7 +175,7 @@ lib/libjni_pinyinime.so
 lib/libjpeg.so
 lib/libloc_api.so
 lib/libloc_ext.so
-lib/libloclib/rpc.so
+lib/libloc-rpc.so
 lib/libloc.so
 lib/liblog.so
 lib/libmedia_jni.so
